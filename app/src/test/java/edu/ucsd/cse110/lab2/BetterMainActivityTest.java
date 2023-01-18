@@ -32,6 +32,5 @@ public class BetterMainActivityTest {
             btn_equals.performClick();
             assertEquals("2", display.getText());
         });
-
     }
 }
